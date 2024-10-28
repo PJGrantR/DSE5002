@@ -1,11 +1,12 @@
 ---
 title: "Week 1 Exercises"
 author: "PJ Grant"
-date: "October 21, 2024"
-output: 
-    pdf_document:
-    toc: true
-    theme: united
+date: "October 27, 2024"
+output:
+  word_document: default
+  toc: true
+  theme: united
+  pdf_document: null
 ---
 
 Please complete all exercises below WITHOUT using any libraries/packages.
@@ -29,7 +30,7 @@ Show that x is less than z but greater than y.
 **Note: your output must be a SINGLE boolean, do not output a boolean for each expression.**
 
 ```{r ex2}
-z > x & x > y
+(z > x) & (x > y)
 ```
 
 # Exercise 3
@@ -78,8 +79,7 @@ locate_test <- function (n) {
 locate_test(sample_vector)
 
 
-#With slicing
+#With slicing - y and z (5 and 20) are in the test vector
 test_vector[x == test_vector | y == test_vector | z == test_vector]
-test_vector[-1]
 
 ```
