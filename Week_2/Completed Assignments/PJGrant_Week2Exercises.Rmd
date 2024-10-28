@@ -16,7 +16,6 @@ library(forcats)
 library(stringr)
 library(lubridate)
 library(forcats)
-library(readr)
 ```
 
 
@@ -98,7 +97,6 @@ time_in_seconds
 number_of_days = time_in_seconds / 60 / 60 / 24
 number_of_days
 
-
 # ~ 4 years
 number_of_days / 365
 
@@ -131,13 +129,8 @@ sales$name <- str_split_fixed(sales$customer_name," ", n=2)
 sales$first_name <- sales$name[,1]
 sales$last_name<- sales$name[,2]
 
-#Kill placeholder names column
-sales$name <- NULL
-
 # There are 37 people names bill
 length(str_subset(sales$first_name, "Bill"))
-
-
 
 ```
 
@@ -148,7 +141,6 @@ How many mentions of the word 'table' are there in the Product.Name column?
 ```{r}
 #240 mentions of the word table in the product_name column
 sum(str_count(sales$product_name,"table"))
-
 ```
 
 # Exercise 7
@@ -156,7 +148,6 @@ Create a table of counts for each state in the sales data. The counts table shou
 
 ```{r}
 table(sales$state)
-
 ```
 
 # Exercise 8
@@ -165,7 +156,6 @@ Create an alphabetically ordered barplot for each sales Category in the State of
 ```{r}
 texas_count <- sales[sales$state == "Texas",]
 barplot(table(texas_count$category))
-
 ```
 
 # Exercise 9
@@ -175,8 +165,6 @@ Find the average profit by region.
 ```{r}
 #The average profit by region is as follows: Central(20.5), East(29.9), South(11.3), West(32.8) 
 aggregate(sales$profit, list(sales$region), mean)
-
-
 ```
 
 # Exercise 10
@@ -191,6 +179,5 @@ sales$order_year <- year(sales$order_date)
 aggregate(sales$profit, list(sales$order_year), mean)
 
 #The average profit for 2014 was 32.2, 2015 was 21.6, 2016 was 30.1, 2017 was 21.3 
-
 ```
 
