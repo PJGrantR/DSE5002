@@ -1,0 +1,199 @@
+country,LanguagesOfficialOrNationalLanguage,LanguagesMinorityLanguage,LanguagesOtherWidelySpokenLanguages
+India,"Hindi, English",,"Bengali, Telugu, Marathi, Tamil, Punjabi, Gujarati, Bhojpuri, Kannada, Malayalam, Odiya, Maithili, Assamese, Bhili, Santali, Kashmiri, Gondi, Nepali, Sindhi, Dogri, Konkani, Kurukh, Khandeshi, Tulu, Meitei, Bodo, Khasi, Ho, Garo, Mundari, Tripuri"
+China,Mandarin Chinese,"Mongolian, Uyghur, Tibetan, Zhuang, Kazakh, Korean",
+United States,English,,
+Indonesia,Indonesian,,"Malay, Javanese, Sundanese, Madurese, Minangkabau"
+Pakistan,"Urdu, English",,"Punjabi, Balochi, Sindhi, Pashto"
+Nigeria,English,,"Hausa, Yoruba, Igbo, Tiv"
+Brazil,Portuguese,,
+Bangladesh,Bengali,,
+Russia,Russian,,
+Ethiopia,"Afar, Amharic, Oromo, Somali, Tigrinya","Benshangul, Gumuz, Harari, Kunama, Sidamo",
+Mexico,Spanish,,
+Japan,Japanese,,
+Egypt,Arabic,Coptic,
+Philippines,"Filipino, English",,
+DR Congo,French,"Lingala, Kikongo","Swahili, Tshiluba"
+Vietnam,Vietnamese,"Cantonese, Cham, Hmong, Khmer, Lao, Muong, Rade, Tay, Thai",
+Iran,Persian,,"Azerbaijani, Kurdish, Luri, Gilaki, Mazanderani, Balochi, Arabic, Qashqai, Tati, Turkmeni"
+Turkey,Turkish,Kurdish,
+Germany,German,"Danish, Lower Sorbian, North Frisian, Romani, Upper Sorbian",
+Thailand,Thai,,
+United Kingdom,"English, Irish, Scottish, Gaelic, Welsh",,
+Tanzania,English,,Swahili
+France,French,"Corsican, Basque, Breton",Occitan language
+South Africa,"Afrikaans, English, Southern Ndebele, Sotho, Northern Sotho, Swazi, Tsonga, Tswana, Venda, Xhosa, Zulu",,
+Italy,Italian,"Ladin, Slovene",
+Kenya,"English, Swahili",,
+Myanmar,Burmese,,English
+Colombia,Spanish,,
+South Korea,Korean,,
+Sudan,"Arabic, English",,
+Uganda,"English, Swahili",,
+Spain,Spanish,"Astur-Leonese, Aragonese, Fala, French, Portuguese",
+Algeria,"Arabic, Tamazight",,French
+Iraq,"Arabic, Kurdish",,
+Argentina,Spanish,,Argentine Spanish
+Afghanistan,"Persian (Dari), Pashto",,
+Yemen,Arabic,,
+Canada,"English, French","Chipewyan, Cree, Gwich'in, Inuinnaqtun, Inuktitut, Inuvialuktun, North Slavey, South Slavey",
+Poland,Polish,,
+Morocco,"Arabic, Tamazight",,Darija
+Angola,Portuguese,"Kimbundu, Umbundu, Kikongo, Chokwe, Kwanyama, Ganguela",Angolan
+Ukraine,Ukrainian,,
+Uzbekistan,Uzbek,"Uzbek, Karakalpak",Russian
+Malaysia,Malay,,"Mandarin Chinese, Cantonese, Tamil"
+Mozambique,Portuguese,,
+Ghana,English,,
+Peru,"Peruvian Spanish, Quechua, Aymara, Asháninka",,
+Saudi Arabia,Arabic,,
+Madagascar,"French, Malagasy",,
+Ivory Coast,French,,
+Nepal,Nepali,,
+Cameroon,"English, French",,
+Venezuela,Spanish,,
+Niger,French,,"Arabic, Hausa, Fulfulde, Gulmancema, Kanuri, Zarma, Tamazight"
+Australia,English,"Nyulnyulan, Worrorran, Bunuban, Jarrakan, Mindi, Daly, Wagiman, Wardaman, Tiwi, Darwin, Iwaidjan, Giimbiyu, Arnhem, Gunwinyguan, Garawan, Tangkic, Pama-Nyungan",
+North Korea,Korean,,
+Syria,Arabic,,
+Mali,French,,
+Burkina Faso,French,"Fula, Jula, More",
+Taiwan,Mandarin,,"Taiwanese Mandarin, Taiwanese Hokkien, Taiwanese Hakka, Formosan"
+Sri Lanka,"Sinhala, Tamil",,
+Malawi,"English, Chichewa",,
+Zambia,English,,
+Kazakhstan,"Kazakh, Russian",,
+Chad,"Arabic, French",,
+Chile,Chilean Spanish,,
+Romania,Romanian,,
+Somalia,Arabic,,Somali
+Senegal,French,,"Jola-Fogny, Mandinka, Pulaar, Serer, Soninke, Wolof"
+Guatemala,Spanish,,
+Netherlands,"Dutch, Frisian","Dutch Low Saxon, Dutch Sign Language, Limburgish, Sinte Romani, Yiddish",
+Ecuador,"Spanish, Quechua","Kichwa, Shuar",
+Cambodia,Khmer,,
+Zimbabwe,"Chewa, Chibarwe, English, Kalanga, Khoisan, Nambya, Ndau, Ndebele, Shangani, Shona, Sotho, Tonga, Tswana, Venda, Xhosa",,
+Guinea,French,,"Fula, Maninka, Susu"
+Benin,French,,
+Rwanda,"English, French, Kinyarwanda, Swahili",,
+Burundi,"French, Kirundi, English",Kirundi,Swahili
+Bolivia,Spanish,,
+Tunisia,Arabic,,Tunisian
+South Sudan,English,,"Arabic, Bari, Dinka, Luo, Murle, Nuer, Zande"
+Haiti,"French, Haitian Creole",,
+Belgium,"Dutch, French, German",,
+Jordan,Arabic,,
+Dominican Republic,Spanish,,
+United Arab Emirates,Arabic,,English
+Cuba,Spanish,,
+Honduras,Spanish,,
+Czech Republic,"Czech, Slovak","Belarusian, Bulgarian, Croatian, German, Greek, Hungarian, Polish, Romani, Russian, Rusyn, Serbian, Ukrainian, Vietnamese",
+Sweden,Swedish,Finnish,"English, Romani, Yiddish"
+Tajikistan,Tajik,,Russian
+Papua New Guinea,"English, Hiri Motu, PNG Sign Language, Tok Pisin",,
+Portugal,Portuguese,,
+Azerbaijan,Azerbaijani,,
+Greece,Greek,,
+Hungary,Hungarian,"Croatian, German, Romanian, Serbian, Slovak, Slovene",
+Togo,French,,
+Israel,Hebrew,,English
+Austria,German,"Slovene, Czech, Hungarian, Slovak, Romani, Serbian",
+Belarus,"Belarusian, Russian",,
+Switzerland,"French , German, Italian, Romansh",,
+Sierra Leone,English,,Krio
+Laos,Lao,,
+Turkmenistan,Turkmen,,Russian
+Libya,Arabic,,
+Kyrgyzstan,"Kyrgyz, Russian",,
+Paraguay,"Spanish, Guaraní",,
+Nicaragua,Spanish,,
+Bulgaria,Bulgarian,,
+Serbia,Serbian,,
+El Salvador,Spanish,,
+Republic of the Congo,French,"Lingala, Munukutuba",
+Denmark,Danish,German,
+Singapore,"English, Malay, Mandarin Chinese, Tamil",,
+Lebanon,Arabic,Armenian,"English, French"
+Finland,"Finnish, Swedish",Sami,
+Liberia,English,,
+Norway,Norwegian,"Kven, Scandoromani",
+Slovakia,Slovak,,
+Palestine,Arabic,,"English, Hebrew"
+Central African Republic,"French, Sango",,
+Oman,Arabic,,
+Ireland,"Irish, English",,
+New Zealand,English,,"Maori, New Zealand Sign Language"
+Mauritania,Arabic,,"Fula, Soninke, Wolof, French"
+Costa Rica,Spanish,Limonese Creole,
+Kuwait,Arabic,,
+Panama,Spanish,,
+Croatia,Croatian,,"Italian, Romani, Slovene"
+Georgia,Georgian,,
+Eritrea,Tigrinya,,"Arabic, Italian"
+Mongolia,Mongolian,,
+Uruguay,Spanish,,
+Bosnia and Herzegovina,"(Bosnian, Croatian and Serbian",,
+Qatar,Arabic,,
+Moldova,Romanian,,
+Namibia,English,,Afrikaans
+Armenia,Armenian,,
+Lithuania,Lithuanian,,Russian
+Jamaica,English,,Jamaican Patois
+Albania,Albanian,"Greek, Macedonian, Aromanian",Italian
+Gambia,English,,
+Gabon,French,,
+Botswana,English,Bantu languages,Tswana
+Lesotho,"Sotho, English",,
+Guinea-Bissau,Portuguese,,
+Slovenia,Slovene,,
+Equatorial Guinea,"French, Portuguese, Spanish",,
+Latvia,Latvian,,Russian
+North Macedonia,"Macedonian, Albanian",,
+Bahrain,Arabic,,
+Trinidad and Tobago,English,,
+Timor-Leste,"Portuguese, Tetum",,
+Estonia,Estonian,,Russian
+Cyprus,"Greek, Turkish",,"Armeniani, Cypriot Arabic, English"
+Mauritius,English,,Mauritian Creole
+Eswatini,"English, Swazi",,
+Djibouti,"Arabic, French",,
+Fiji,"English, Fijian, Fiji Hindi",,
+Comoros,"Arabic, Comorian, French",,
+Guyana,English,,Guyanese Creole
+Solomon Islands,English,,
+Bhutan,Dzongkha,,
+Luxembourg,"French, German, Luxembourgish",,
+Montenegro,Montenegrin,,
+Suriname,Dutch,,Sranan Tongo
+Western Sahara,"Tamazight, Arabic, Spanish",,
+Malta,"Maltese, English",,
+Maldives,Dhivehi,,
+Cape Verde,Portuguese,,Cape Verdean Creole
+Brunei,"Malay, English",,
+Belize,English,,Kriol
+Bahamas,English,,
+Iceland,Icelandic,,
+Vanuatu,"English, French",,Bislama
+Barbados,English,,
+Sao Tome and Principe,Portuguese,,
+Samoa,English,,Samoan
+Saint Lucia,English,,
+Kiribati,English,,Kiribati
+Seychelles,"English, French, Seychellois Creole",,
+Grenada,English,,
+Micronesia,English,,
+Tonga,"English, Tongan",,
+Saint Vincent and the Grenadines,English,,
+Antigua and Barbuda,English,,Antiguan and Barbudan Creole
+Andorra,Catalan,,
+Dominica,English,,
+Saint Kitts and Nevis,English,,
+Liechtenstein,German,,
+Monaco,French,,Monégasque
+Marshall Islands,English,,Marshallese
+San Marino,Italian,,
+Palau,"English, Palauan",,
+Cook Islands,"English, Cook Islands Maori",,
+Tuvalu,"Tuvaluan, English",,
+Niue,"English, Niuean",,
+Vatican City,"Italian, Latin",,Swiss German

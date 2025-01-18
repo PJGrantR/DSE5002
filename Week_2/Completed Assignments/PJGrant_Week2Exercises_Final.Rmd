@@ -1,8 +1,10 @@
 ---
 title: "Week 2 Exercises"
 author: "PJ Grant"
-date: "October 27, 2024"
-output: pdf_document
+date: "Nov 3rd, 2024"
+output:
+  word_document: default
+  pdf_document: default
 ---
 
 Please complete all exercises below. You may use stringr, lubridate, or the forcats library. 
@@ -16,6 +18,7 @@ library(forcats)
 library(stringr)
 library(lubridate)
 library(forcats)
+library(readr)
 ```
 
 
